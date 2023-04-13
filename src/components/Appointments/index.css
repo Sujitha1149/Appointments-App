@@ -1,0 +1,52 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.card-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+}
+.button {
+  margin-top: 30px;
+  border: none;
+  height: 35px;
+  font-size: 13px;
+  width: 90px;
+  background-color: #8b5cf6;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.in-cont {
+  margin: 15px;
+}
+.total-conts {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.app-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.starred-btn {
+  height: 40px;
+  width: 120px;
+  border: 1px solid #171f46;
+  color: #171f46;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+.start-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}

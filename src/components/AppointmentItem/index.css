@@ -1,0 +1,26 @@
+.list-cont {
+  border: 1px solid #b5b7c4;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 20px;
+}
+.sta-contt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  min-width: 400px;
+}
+.star-emoji {
+  height: 30px;
+}
+.para {
+  font-size: 14px;
+}
+.head {
+  font-size: 16px;
+}
+.button-emoji {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
